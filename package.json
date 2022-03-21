@@ -1,5 +1,5 @@
 {
-  "name": "p5.jswebsite",
+  "name": "p52",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
-    "fs": "^0.0.1-security"
+    "express": "^4.17.3"
   }
 }
